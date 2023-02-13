@@ -42,6 +42,8 @@ value of `name`.
 Update your `Hello` component in `App.js` so that you're passing in a name as
 a prop.
 
+Then, create a function that Alerts you "Remember to take a break, React is tough!", pass this function down from App.js to your child component as a prop, and use react's onClick function to call it
+
 ### BONUS
 
 Feeling ambitious? 
@@ -49,10 +51,12 @@ Feeling ambitious?
 Copy the array below and paste it into your `App.js` file above the `App` function.
 
 ```js
-const names = ['Eddie Van Halen', 'Jimi Hendrix', 'Wes Montgomery', 'Frank Zappa', 'John Mayer']
+const names = ['John Lennon', 'Jimi Hendrix', 'Prince', 'John Mayer']
 ```
 
-Using the `names` array, render a `Hello` component for each person in the array.
+Using the `names` array, render a `Hello` component for each person in the array. You can also find an image of each to render in their components.
+
+
 
 
 
