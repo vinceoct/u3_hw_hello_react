@@ -9,11 +9,11 @@ Create a simple `<Hello ${name}/>` component in React, and then pass the name as
 ## Prerequisites
 
 - React
-- Create-react-app
+- Create react app through Vite
 
 ## Instructions
 
-1. Create a react app called `hello-react` using `npx create-react-app hello-react` 
+1. Create a react app called `hello-react` using `npm create vite@latest` 
 2. Change into the newly created project directory with `cd hello-react`.
 3. Follow the requirements below.
 
